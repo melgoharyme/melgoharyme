@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mahmoudelgoharyme=anuraghazra&theme=dark&show_icons=true)
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mahmoudelgoharyme)](https://github.com/anuraghazra/github-readme-stats)
