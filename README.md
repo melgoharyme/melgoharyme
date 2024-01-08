@@ -36,6 +36,6 @@
 <hr>
 
 <h3 align="left">Github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en&hide=html,css&hide_progress=false&layout=donut-vertical&show_icons=true&theme=dark&locale=en&layout=compactx" alt="mahmoudelgoharyme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en&hide=html,css&hide_progress=false&layout=donut-vertical&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahmoudelgoharyme" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en"/></p>
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudelgoharyme&theme=holi-theme&hide_border=true&border_radius=20&mode=weekly&card_width=846" alt="GitHub Streak" /></a></p>
