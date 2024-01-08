@@ -36,11 +36,11 @@
 <hr>
 
 <h3 align="left">Github stats:</h3>
-<h4 align="left">stat (1):</h4>
+<h4 align="left">state (1):</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahmoudelgoharyme" /></p>
 <div><br></div>
-<h4 align="left">stat (2):</h4>
+<h4 align="left">state (2):</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en" alt="mahmoudelgoharyme" /></p>
 <div><br></div>
-<h4 align="left">stat (3):</h4>
+<h4 align="left">state (3):</h4>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudelgoharyme&theme=dark" alt="mahmoudelgoharyme" /></p>
