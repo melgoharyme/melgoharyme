@@ -37,7 +37,7 @@
 
 <h3 align="left">Github stats:</h3>
 <h4 align="left">state (1):</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en&layout=compact&hide=html" alt="mahmoudelgoharyme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en&layout=compact&hide=html,css" alt="mahmoudelgoharyme" /></p>
 <div><br></div>
 <h4 align="left">state (2):</h4>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudelgoharyme&show_icons=true&theme=dark&locale=en" alt="mahmoudelgoharyme" /></p>
