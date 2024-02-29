@@ -1,9 +1,7 @@
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-<div class="flex space-x-4">
-  <a href="#" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Twitter</a>
-  <a href="#" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Facebook</a>
-  <a href="#" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">LinkedIn</a>
-</div>
+<a href="#" style="background-color: #1DA1F2; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">Twitter</a>
+<a href="#" style="background-color: #3b5998; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">Facebook</a>
+<a href="#" style="background-color: #0077B5; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">LinkedIn</a>
+
 <h1 align="center">Hi 👋, I'm Mahmoud Elgohary</h1>
 <h3 align="center">A passionate software developer from Alexandria, Egypt</h3>
 
