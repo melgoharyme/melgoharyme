@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
 <h1 align="center">Hi 👋, I'm Mahmoud Elgohary</h1>
 <h3 align="center">A passionate software developer from Alexandria, Egypt</h3>
 
