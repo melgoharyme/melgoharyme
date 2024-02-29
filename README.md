@@ -1,11 +1,3 @@
-<h2 style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">Skills</h2>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="Tailwind CSS" width="32" height="32"> Tailwind CSS</li>
-  <li><img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="HTML" width="32" height="32"> HTML</li>
-  <li><img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="CSS" width="32" height="32"> CSS</li>
-  <li><img src="https://image.flaticon.com/icons/png/512/732/732212.png" alt="JavaScript" width="32" height="32"> JavaScript</li>
-</ul>
-
 <h1 align="center">Hi 👋, I'm Mahmoud Elgohary</h1>
 <h3 align="center">A passionate software developer from Alexandria, Egypt</h3>
 
