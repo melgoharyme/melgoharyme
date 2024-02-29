@@ -1,6 +1,6 @@
-<a href="#" style="background-color: #1DA1F2; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">Twitter</a>
-<a href="#" style="background-color: #3b5998; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">Facebook</a>
-<a href="#" style="background-color: #0077B5; color: white; padding: 10px; border-radius: 5px; text-decoration: none; display: inline-block;">LinkedIn</a>
+<a href="#"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="Twitter" width="32" height="32"></a>
+<a href="#"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="Facebook" width="32" height="32"></a>
+<a href="#"><img src="https://image.flaticon.com/icons/png/512/124/124011.png" alt="LinkedIn" width="32" height="32"></a>
 
 <h1 align="center">Hi 👋, I'm Mahmoud Elgohary</h1>
 <h3 align="center">A passionate software developer from Alexandria, Egypt</h3>
