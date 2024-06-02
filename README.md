@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gohary_me" target="blank"><img src="https://img.shields.io/twitter/follow/gohary_me?logo=twitter&style=for-the-badge" alt="gohary_me" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/MahmoudElgohary](https://www.behance.net/MahmoudElgohary)
 
