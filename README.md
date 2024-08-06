@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, TailwindCSS, Figma**
 
-- 📫 How to reach me **mahmoudelgoharydotme@gmail.com**
+- 📫 How to reach me **hello@melgohary.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
