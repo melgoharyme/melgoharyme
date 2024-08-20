@@ -35,7 +35,7 @@ src="https://img.shields.io/twitter/follow/melgoharyme?logo=twitter&style=for-th
 
 <a href="http://www.github.com/melgoharyme"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melgoharyme&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/melgoharyme" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melgoharyme&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/melgoharyme" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melgoharyme&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=HTML" alt="Top Languages" /></a>
 
 ### Support Me
 
