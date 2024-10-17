@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/melgoharyme?logo=twitter&style=for-th
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.codepen.io/rotkx" target="_blank" rel="noreferrer">
+    <a href="[https://www.codepen.io/rotkx](https://codepen.io/rotkx)" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
