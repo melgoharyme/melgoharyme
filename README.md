@@ -1,3 +1,5 @@
+![C](https://github.com/melgoharyme/melgoharyme/blob/main/Designer%20(2).jpeg?raw=true) 
+
 👨‍💻 Software Engineer<br>⚡ Turning coffee into code.<br>📚 Aspiring C# Learner | Writing code that's both efficient and maintainable.
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
