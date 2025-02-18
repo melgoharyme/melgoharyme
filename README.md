@@ -1,4 +1,4 @@
-👨‍💻 Software Engineer<br>⚡ Turning coffee into code.<br>📚 Aspiring C# Learner | Writing code that's both efficient and maintainable.
+👨‍💻 Software Engineer Turning coffee into code.<br>📚 Aspiring C# Learner | Writing code that's both efficient and maintainable.
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
